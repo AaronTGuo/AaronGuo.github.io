@@ -1,3 +1,3 @@
-### Aaron Guo's Github Page
+# Aaron Guo's Github Page
 
 Add content here eventually...
